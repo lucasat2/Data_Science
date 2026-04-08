@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+*.csv
+*.zip
+Projeto_Analise_voo/flights.csv
