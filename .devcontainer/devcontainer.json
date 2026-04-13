@@ -1,0 +1,10 @@
+{
+  "name": "Python 3",
+  "image": "mcr.microsoft.com/devcontainers/python:3",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {
+      "installTools": true
+    }
+  },
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y python3-pip && python3 -m pip install ipykernel"
+}
