@@ -1,35 +1,20 @@
-# 🐍 Jornada Python - Análise de Dados
+# 🐍 Jornada Python - Data Science
 
-Este repositório contém meu progresso nos estudos de Python, com foco em manipulação de dados usando a biblioteca Pandas.
+Este repositório contém meu progresso nos estudos de Python, com foco em manipulação de dados.
 
----
 
 ## 📂 Estrutura do Projeto
 
-### 1. 🧪 Introdução ao Pandas
-*Conteúdos fundamentais para entender a estrutura e manipulação de tabelas.*
-
-* [Teoria](1-introducao_pandas/Revisional_Pandas.ipynb) - Visão geral do Pandas.
-* [Operações em DataFrames](introducao_pandas/operacoes_dataframe.ipynb) - Cálculos e manipulações básicas.
-* [Agrupamento e Agregação](introducao_pandas/Agrupamento_e_Agregacao.ipynb) - Como resumir dados com `groupby`.
-* [Limpeza de Dados](introducao_pandas/Limpeza__de_dados.ipynb) - Tratamento de nulos e duplicados.
-
----
 
 ### ✈️ Projeto: Análise de Voos
 *Aplicação prática em um conjunto de dados do mundo real.*
 
-* [Leitura de Dados](projeto_analise_voo/02_leitura_dados_mundo_real.ipynb) - Como carregar diferentes formatos.
-* [Revisão e Tipos](projeto_analise_voo/1-revisão_dataframe.ipynb) - Verificação de `dtypes`.
-* [Datas e Índices](projeto_analise_voo/2-index_e_datetime.ipynb) - Manipulação de colunas temporais.
-* [Análise Exploratória (EDA)](projeto_analise_voo/4-EDA.ipynb) - Descoberta de insights e padrões.
-* **[PROJETO FINAL](projeto_analise_voo/Projeto_Pandas_Analise_dados_voo.ipynb)** - Relatório consolidado com gráficos.
-
+* [Projeto](Projeto_Analise_voo/Projeto_Analise_dados_voo.ipynb)
 
 
 ## 🎯 Checklist de Competências (O que já domino)
 
-Abaixo estão as habilidades técnicas que desenvolvi e documentei nestes cadernos, organizadas por categoria:
+Habilidades técnicas que desenvolvi e documentei nestes cadernos, organizadas por categoria:
 
 ### 📥 Importação e Exportação
 - [x] Leitura de CSVs com diferentes separadores e encodings (`sep`, `encoding`).
