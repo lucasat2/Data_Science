@@ -5,6 +5,9 @@ Este repositório contém meu progresso nos estudos de Python, com foco em manip
 
 ## 📂 Estrutura do Projeto
 
+## 📚 Material de Consulta
+* [📖 Dicionário de Comandos e Funções](cheat_sheet.md) - Minha folha de consulta rápida para Pandas e Python.
+
 
 ### ✈️ Projeto: Análise de Voos
 *Aplicação prática em um conjunto de dados do mundo real.*
@@ -12,7 +15,7 @@ Este repositório contém meu progresso nos estudos de Python, com foco em manip
 * [Projeto](Projeto_Analise_voo/Projeto_Analise_dados_voo.ipynb)
 
 
-## 🎯 Checklist de Competências (O que já domino)
+## 🎯 Checklist de Competências
 
 Habilidades técnicas que desenvolvi e documentei nestes cadernos, organizadas por categoria:
 
